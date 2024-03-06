@@ -24,6 +24,7 @@ This is a web-based School Management System developed using JSP (JavaServer Pag
 - **HTML/CSS**: Frontend design and styling.
 - **MySQL**: Database management system for storing school data.
 - **JDBC (Java Database Connectivity)**: Java API for connecting and executing SQL statements with the database.
+![School](https://github.com/charlzspice/School-Management-System/assets/113253683/5037e979-30bc-44c3-82a3-0c8bafcbcba6)
 
 ## Installation
 
